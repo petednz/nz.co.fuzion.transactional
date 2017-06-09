@@ -6,7 +6,7 @@ CiviCRM by default only performs bounce handling when sending via CiviMail, but 
 
 ## Author
 
-This extension was written by Dave Reedy on behalf of Fuzion Aotearoa.
+This extension was written by Dave Reedy on behalf of Fuzion Aotearoa Ltd.
 
 ## Configuration
 
@@ -14,7 +14,7 @@ No special configuration is required for this extension. Just install it!
 
 ## How it works
 
-This extension creates a pseudo-CiviMail named "Transactional Emails" which transactional emails are attached to. This could be improved to track by email type with multiple pseudo-CiviMails.
+This extension creates a pseudo-CiviMail named "Transactional Emails" which transactional emails are attached to. (This could be improved to track by email type with multiple pseudo-CiviMails.)
 
 VERP processing can be applied to outgoing transactional emails, and CiviMail's existing bounce handling may  be applied to bounces returned from those emails.
 
@@ -29,7 +29,7 @@ Bounce reporting, delivery, open and click tracking should work as per regular C
 
 ## Support
 
-This extension is contributed by [Fuzion Aotearoa](https://www.fuzion.co.nz). Contact us for professional support and development requests.
+This extension is contributed by [Fuzion](https://fuzion.co.nz). [Contact us](https://fuzion.co.nz/contact) for professional support and development requests.
 
 We welcome contributions and bug reports via the extension's Github issue queue.
 
